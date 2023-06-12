@@ -8,16 +8,16 @@ consta del código fuente del proyecto y la documentación requerida.
 El proyecto debe cumplir con algunos requisitos mínimos basándonos en el checklist que se muestra abajo.
 
 ## Checklist
-* [ ] 5 Clases
-* [ ] 2 Clases Abstractas
+* [X] 5 Clases
+* [X] 2 Clases Abstractas
 * [ ] 2 Interfaces
 * [ ] 1 uso de alguna colección
-* [ ] 2 tests unitarios por cada clase
-* [ ] Diagrama UML (PlantUML)
-* [ ] 3 PR por cada repositorio
+* [X] 2 tests unitarios por cada clase
+* [X] Diagrama UML (PlantUML)
+* [X] 3 PR por cada repositorio
 * [ ] Uso de paquetes para organizar el proyecto 
 * [ ] Manejo de excepciones.
-* [ ] Documento README.md con las instrucciones para ejecutar el proyecto y con la estructura descrita abajo.
+* [X] Documento README.md con las instrucciones para ejecutar el proyecto y con la estructura descrita abajo.
 
 ## Documento README.md
 El documento README.md debe contener la siguiente información:
